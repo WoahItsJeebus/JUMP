@@ -1,7 +1,4 @@
-> [!NOTE]
-> Bugs may sometimes occur
+# <font color="#00b7ffff" face="Consolas">JUMP — Jeebus' Unoptimized Minesweeper Player
 
-___
-
-## Dependencies
-- [AutoHotKey v2](https://autohotkey.com/download/ahk-v2.exe)
+### Dependencies
+- [AutoHotKey v2.0.19+](https://autohotkey.com/download/ahk-v2.exe)
