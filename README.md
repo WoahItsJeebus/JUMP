@@ -7,7 +7,7 @@ Classic controls, first-click safe, timer + mine counter, standard difficulties,
 - [AutoHotKey v2.0.19+](https://autohotkey.com/download/ahk-v2.exe)
 
 <p align="center"><a href="https://github.com/WoahItsJeebus/JACS/releases/download/Launcher/JUMP_Launcher.exe">
-  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/WoahItsJeebus/JUMP?sort=semver&display_name=tag&style=plastic&label=Download%20Latest" height="40" width="340">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/WoahItsJeebus/JUMP?sort=semver&display_name=tag&style=plastic&label=Download%20" height="40" width="200">
 </a></p>
 
 <p align="center">
